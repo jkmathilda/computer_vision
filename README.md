@@ -51,9 +51,9 @@ Repositories:
 - [reference](https://syerco0.com/37)
 - [reference](https://kig2929kig.github.io/python/yt-dlp/)
 
-## Issue
+## Issues
 
-### Case.1
+### Case 1
 
     pip show youtube-dl
 
