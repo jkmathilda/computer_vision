@@ -35,7 +35,7 @@ Welcome to this course on OpenCV with Python.
 
 ## Projects
 
-The code for the 2 projects we cover in this course is in a different repository.
+The code for the 2 projects we cover in this projec is in a different repository.
 
 Repositories:
 
