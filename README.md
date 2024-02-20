@@ -1,7 +1,5 @@
 # computer_vision
 
-# computer-vision
-
 Welcome to this course on OpenCV with Python.
 
 
