@@ -7,7 +7,7 @@ image_path = os.path.join('.', 'data', 'bird1.png')
 img = cv2.imread(image_path)
 
 print(f"- image type : {type(img)}")
-print(f"- image type : {img.shape}")
+print(f"- image shape : {img.shape}")
 
 # visualize image
 print("visualize image...")
