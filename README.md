@@ -33,8 +33,6 @@
 
 ## Projects
 
-The code for the 2 projects we cover in this projec is in a different repository.
-
 Repositories:
 
 - [Color detection](https://github.com/computervisioneng/color-detection-opencv) : [youtube](https://www.youtube.com/watch?v=aFNDh5k3SjU)
