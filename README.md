@@ -16,7 +16,7 @@
     which tesseract
     --> /opt/homebrew/bin/tesseract
 
-## Install: setting up a virtual environment
+## Set up virtual environment
 
     python3 -m venv .venv && source .venv/bin/activate
 
