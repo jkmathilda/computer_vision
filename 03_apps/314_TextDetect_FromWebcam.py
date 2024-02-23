@@ -33,7 +33,7 @@ while True:
     
     # DETECTING CHARACTERES
     if img is not None: 
-        hImg, wImg,_ = img.shape
+        hImg, wImg, _ = img.shape
         boxes = pytesseract.image_to_boxes(img)
 
         for b in boxes.splitlines():
